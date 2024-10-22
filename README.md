@@ -19,6 +19,7 @@
   <a href="#Examples">Examples</a>
 </p>
 
+### Nahamsec video Reference : [https://youtu.be/7v6t6O0LMiY?si=mhqVnl7Sr0FOzaAB](https://youtu.be/7v6t6O0LMiY?si=mhqVnl7Sr0FOzaAB)
 ### Disclaimer
 The author of this project is not responsible for any damage or data loss incurred as a result of using this software. Use this software at your own risk. While efforts have been made to ensure the accuracy and reliability of the software, it is provided "as is" without warranty of any kind. By using this software, you agree to assume all risks associated with its use. Opinions are that of the author and not that of AWS. Review the [AWS pentesting policy](https://aws.amazon.com/security/penetration-testing/) prior to executing any security tools on AWS Lambda.
 
